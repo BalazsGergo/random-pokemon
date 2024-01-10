@@ -1,0 +1,16 @@
+.RandomPokemons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1pcs solid black;
+   
+}
+
+h1 {
+    color: blue;
+}
+
+img {
+    width: 150px;
+}
+
